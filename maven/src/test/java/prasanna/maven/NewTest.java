@@ -23,6 +23,7 @@ public class NewTest {
 		  Thread.sleep(2000);
 		  act= driver.getTitle();
 		  System.out.println(act);
+		  //if condtion
 		    if(ext.equalsIgnoreCase(act))
 		  {
 		 	System.out.println("both are equal");
