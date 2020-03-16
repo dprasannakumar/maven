@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-28T04:28:06Z" name="Default suite" finished-at="2020-02-28T04:28:25Z" duration-ms="18454">
+    <groups>
+    </groups>
+    <test started-at="2020-02-28T04:28:06Z" name="Default test" finished-at="2020-02-28T04:28:25Z" duration-ms="18454">
+      <class name="prasanna.maven.NewTest2">
+        <test-method is-config="true" signature="B()[pri:0, instance:prasanna.maven.NewTest2@b9b00e0]" started-at="2020-02-28T04:28:06Z" name="B" finished-at="2020-02-28T04:28:25Z" duration-ms="18415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+        <test-method signature="TEst2()[pri:0, instance:prasanna.maven.NewTest2@b9b00e0]" started-at="2020-02-28T04:28:25Z" name="TEst2" finished-at="2020-02-28T04:28:25Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TEst2 -->
+        <test-method signature="e_method()[pri:0, instance:prasanna.maven.NewTest2@b9b00e0]" started-at="2020-02-28T04:28:25Z" name="e_method" finished-at="2020-02-28T04:28:25Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e_method -->
+        <test-method signature="a_method()[pri:1, instance:prasanna.maven.NewTest2@b9b00e0]" started-at="2020-02-28T04:28:25Z" name="a_method" finished-at="2020-02-28T04:28:25Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_method -->
+        <test-method signature="d_method()[pri:3, instance:prasanna.maven.NewTest2@b9b00e0]" started-at="2020-02-28T04:28:25Z" name="d_method" finished-at="2020-02-28T04:28:25Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d_method -->
+        <test-method signature="c_method()[pri:6, instance:prasanna.maven.NewTest2@b9b00e0]" started-at="2020-02-28T04:28:25Z" name="c_method" finished-at="2020-02-28T04:28:25Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c_method -->
+        <test-method signature="b_method()[pri:9, instance:prasanna.maven.NewTest2@b9b00e0]" started-at="2020-02-28T04:28:25Z" name="b_method" finished-at="2020-02-28T04:28:25Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_method -->
+      </class> <!-- prasanna.maven.NewTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
