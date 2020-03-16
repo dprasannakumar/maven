@@ -75,9 +75,15 @@ public class NewTest2 {
 		    System.out.println("I'm in method E");
 		    }
 		    @Test(priority=3)
-		    public void d_method(){
+		    public void d_method() {
+		    	int i=0;
+		    	if(i==0)
+		    	{
+		    		
+		    	}
 		    System.out.println("I'm in method D");
 		    }
 
+		
   }
 
